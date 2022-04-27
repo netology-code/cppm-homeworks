@@ -2,7 +2,7 @@
 
 * браузер;
 * редактор кода, например [Sublime Text][1] или [Visual Studio Code][2];
-* аккаунт на [GitHub][0] ([инструкция по регистрации на GitHub][3]);
+* аккаунт на [GitHub][0] ([инструкция по регистрации на GitHub](https://github.com/netology-code/cppm-homeworks/tree/main/common/sign%20up));
 * система контроля версий [Git][4], установленная локально ([инструкция по установке Git](https://github.com/netology-code/cppm-homeworks/tree/main/common/download));
 
 ## Начало работы
