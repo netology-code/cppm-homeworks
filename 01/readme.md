@@ -15,7 +15,7 @@
 
 ### Инструкция
 
-[Инструкция по выполнению домашнего задания]()
+[Инструкция по выполнению домашнего задания](https://github.com/netology-code/cppm-homeworks/blob/main/common/readme.md)
 
 ------
 
