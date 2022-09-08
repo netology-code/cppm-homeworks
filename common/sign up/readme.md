@@ -12,12 +12,12 @@
 ![/img/NI_2.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_2.png)
 
 
-Далее появится форма ввода пароля. Пароль должен состоять минимум из 8-ми символов и обязательно содержать цифры. После ввода пароля нажмите кнопку  <kbd>Continue</kbd>.
+Далее появится форма ввода пароля. Пароль должен состоять минимум из 8 символов и обязательно содержать цифры. После ввода пароля нажмите кнопку  <kbd>Continue</kbd>.
 
 ![/img/NI_3.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_3.png)
 
 
-После этого появится строчка для ввода вашего логина/имени пользователя (username).
+После этого появится строчка для ввода вашего логина / имени пользователя (username).
 
 ![/img/NI_4.png](https://github.com/MihailOkatev/guides/blob/master/github/img/NI_4.png)
 
