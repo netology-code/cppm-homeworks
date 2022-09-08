@@ -19,14 +19,14 @@
 
 ## Начало работы
 
-1. Создайте репозиторий на [GitHub](https://github.com/). Параметры создаваемого репозитория:
-* Repository name: `origin`;
-* Access level: Public;
-* Initialize this repository with a README: No;
-* Add .gitignore: None;
+1. Создайте репозиторий на [GitHub](https://github.com/). Параметры создаваемого репозитория.
+* Repository name: `origin`.
+* Access level: Public.
+* Initialize this repository with a README: No.
+* Add .gitignore: None.
 * Add a license: None.
 
-Нажмите на кнопку `Create repository` и вы будете переведены на страницу вновь созданного репозитория.
+Нажмите на кнопку `Create repository`, чтобы перейти на страницу вновь созданного репозитория.
 URL-адрес текущей страницы будет являться URL-адресом вашего репозитория.
 Пример URL-адреса репозитория: `https://github.com/username/origin`, где `username` - имя вашего профиля GitHub, `origin` - название репозитория. Далее по тексту адрес вашего репозитория будет иметь обозначение: `%repo-url%`.
 
