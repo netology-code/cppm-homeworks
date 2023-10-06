@@ -31,16 +31,21 @@ IDE объединяет в себе текстовый редактор, ком
 
 Далее мы рассмотрим процесс установки Microsoft Visual Studio 2022 Community Edition на компьютер под управлением операционной системы Microsoft Windows 10. У Visual Studio также есть версия для операционной системы macOS. Для беспроблемной установки на вашем компьютере должно быть не менее 15 Гб свободного места, а версия Windows 10 не ниже 1607.
 
-Шаг 1. Загрузка установщика
+## Шаг 1. Загрузка установщика
 Зайдите на страницу загрузки Visual Studio. Для этого перейдите по ссылке или наберите в поисковике «Microsoft Visual Studio Community». Вы попадёте на такую страницу:
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/1.PNG)
 
-Шаг 2. Запуск установщика
+## Шаг 2. Запуск установщика
 Щёлкните по кнопке «Скачать» — начнётся скачивание установщика (VisualStudioSetup.exe). После загрузки запустите установщик. 
-Вы увидите следующее окно:
+Нажмите «Продолжить»
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/2.PNG)
+
+## Шаг 3. Выбор рабочих нагрузок
+Мы увидим окно выбора рабочих нагрузок для установки:
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/3_photo-resizer.ru.PNG)
+
 
 
 
