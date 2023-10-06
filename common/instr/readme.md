@@ -60,7 +60,7 @@ IDE объединяет в себе текстовый редактор, ком
 ### Шаг 6. Перезагрузка
 После окончания установки компьютер попросит перезагрузку. Перезагрузите компьютер
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/6.PNG)
 
 ## 3. Знакомство с Visual Studio 2022
 
