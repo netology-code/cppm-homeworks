@@ -133,5 +133,15 @@ IDE объединяет в себе текстовый редактор, ком
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
 
+Вместо нашего текста появились какие-то символы. Что произошло и что делать, как вы думаете?
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+
+### Чиним русский язык
+
+Проблема возникла из-за несоответствия кодировок. Чтобы её решить, добавьте в начало функции main такую строчку:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+
 
 
