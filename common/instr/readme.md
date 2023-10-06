@@ -74,74 +74,74 @@ IDE объединяет в себе текстовый редактор, ком
 
 Нажмите на кнопку «Создание проекта»:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/7.PNG)
 
 ### Создание проекта C++
 Вы увидите окно с выбором шаблона проекта. Выберите «Консольное приложение» и щёлкните по кнопке «Далее»:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/8.PNG)
 
 Вы увидите окно с настройками нового проекта: его название, расположение и пару других настроек. Оставьте всё как есть и нажмите кнопку «Создать»:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/9.PNG)
 
 ### Знакомимся с Visual Studio
 После этого Visual Studio создаст новый проект и сразу откроет его вам:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/10.PNG)
 
 Окно Visual Studio состоит из нескольких зон. По центру располагается главная зона, в которой вы пишете код:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/11.PNG)
 
 Сверху находятся панели управления Visual Studio и проектом, с которым вы работаете: 
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/12.PNG)
 
 Справа находится зона управления файлами и проектами внутри одного решения (подробнее рассмотрим на следующих лекциях):
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/13.PNG)
 
 В Visual Studio очень много возможностей. Например, можно менять размеры зон. Для этого нужно поместить курсор на границу между зонами, щёлкнуть и потянуть:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/14.PNG)
 
 ### Собираем проект
 В отличие от REPL, в Visual Studio перед тем, как запустить проект, нужно его собрать — скомпилировать. Для этого щёлкните пункт меню «Сборка -> Собрать решение»:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/15.PNG)
 
 Внизу появится новая зона — «Вывод». В ней вы увидите результаты сборки вашего решения. На самом деле, сборка производится автоматически при запуске проекта, если в ней есть необходимость:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/16.PNG)
 
 ### Запускаем проект
 Для запуска вашей программы щёлкните по кнопке «Локальный отладчик Windows» или нажмите F5:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/17.PNG)
 
 После запуска появится консоль, в которую будет выводить ваша программа:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/18.PNG)
 
 ### Пишем новый код
 Давайте теперь напишем новый код. Например, поприветствуем пользователя на русском. Добавим строку и запустим отладку:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/19.PNG)
 
-Перед нами появится окошко с сообщением о том, что проект устарел и его нужно пересобрать. Это нужно делать всегда, чтобы изменения, которые вы внесли в код, повлияли на работу программы. Поэтому можно поставить галочку в поле «Больше не выводить это окно» и нажать кнопку «Да»:
+Если появится окошко с сообщением о том, что проект устарел и его нужно пересобрать, поставьте галочку в поле «Больше не выводить это окно» и нажать кнопку «Да». Это нужно делать всегда, чтобы изменения, которые вы внесли в код, повлияли на работу программы.
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
 
 Вместо нашего текста появились какие-то символы. Что произошло и что делать, как вы думаете?
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/21.PNG)
 
 ### Чиним русский язык
 
 Проблема возникла из-за несоответствия кодировок. Чтобы её решить, добавьте в начало функции main такую строчку:
 
-![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/5.PNG)
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/22.PNG)
 
 
 
