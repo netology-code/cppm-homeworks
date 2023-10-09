@@ -179,15 +179,76 @@ IDE объединяет в себе текстовый редактор, ком
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/30.PNG)
 
-### Работа с файлами
+### Запись текста в файл
 
 Для расширения функционала C++ используются дополнительные библиотеки. Чтобы начать работу с функциями, классами и объектами, предоставляемыми библиотекой, необходимо подключить соответствующий заголовочный файл, описывающий ее функционал.
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/32.1.PNG)
 
-Затем написать программу:
+Создайте файл на компьютере:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/34.PNG)
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/35.PNG)
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/36.PNG)
+
+Напишите код для открытия файла 1.txt и проверки, открылся ли он:
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/32.2.PNG)
+
+Запустите отладчик, чтобы проверить открылся ли он:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/37.PNG)
+
+Добавьте в файл текст:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/39.PNG)
+
+Запустите отладчик и проверьте, появился ли текст в документе:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/40.PNG)
+
+Чтобы перенести текст на новую строку, используйте операцию:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/41.PNG)
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/42.PNG)
+
+Если вы больше не используете файл, закройте его:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/38.PNG)
+
+### Чтение текст из файла
+
+Подготовьте файл и текст:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/48.PNG)
+
+Добавьте заголовочный файл "string". 
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/45.PNG)
+
+Если вы планируете только считывать информацию из файла, а не записывать в него, испьзуйте класс "ifstream" (input file stream). Часто это помогает уменьшить объём кода, который нужно написать.
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/46.PNG)
+
+Напишите код:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/44.PNG)
+
+Запустите отладчик и убедитесь, что текст из документа считался:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/47.PNG)
+
+
+
+
+
+
+
+
+
 
 
 
