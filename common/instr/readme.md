@@ -143,5 +143,44 @@ IDE объединяет в себе текстовый редактор, ком
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/22.PNG)
 
+Получится вот так:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/23.PNG)
+
+Теперь запустим:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/24.PNG)
+
+### Разбираемся с ошибками
+
+Если в процессе написания кода мы допустим синтаксическую ошибку (а мы допустим), Visual Studio подсветит её для нас. Наведя курсор, можно узнать больше об ошибке:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/25.PNG)
+
+Если мы не заметим подсветку (такое тоже произойдёт), то при попытке запуска перед нами появится окно. Если мы нажмём «Да», то тогда запустится последний успешно собранный вариант вашей программы — без последних изменений. Этого обычно не требуется, поэтому стоит поставить галочку в поле «Больше не выводить это окно» и нажать «Нет»
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/26.PNG)
+
+В нижней зоне у нас появилась новая вкладка «Список ошибок» и сам список ошибок, обнаруженных во время сборки программы:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/27.PNG)
+
+Если переключиться на вкладку «Вывод», мы увидим, что попытка сборки проекта не удалась:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/28.PNG)
+
+### Расположение в файловой системе
+
+В отличие от REPL, наша программа теперь хранится в виде файлов и директорий на нашем компьютере. Чтобы открыть место расположения файлов, щёлкните правой кнопкой мыши по вашему проекту в правой зоне и в контекстном меню выберите «Открыть папку в проводнике»:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/29.PNG)
+
+Откроется обычный проводник, в котором вы можете увидеть директорию, в которой хранятся файлы вашего проекта:
+
+![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/30.PNG)
+
+### Работа с файлами
+
+Если в REPL было понятно, куда добавлять файлы для чтения, то куда их добавлять здесь неясно. Давайте напишем код для открытия файла in.txt и проверки, открылся ли он:
 
 
