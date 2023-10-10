@@ -20,7 +20,7 @@
 12. [Работа с ошибками](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#11-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0)
 13. [Запись текста в файл](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#13-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%B2-%D1%84%D0%B0%D0%B9%D0%BB)
 14. [Чтение текста из файла](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#14-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%B8%D0%B7-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0)
-15. [Справочник по C++](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#15-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-c)
+15. [Дополнительные материалы](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#15-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-c)
 
 ## 1. IDE (от англ. Integrated development environment — Интегрированная среда разработки)
 Это программы для разработки других программ. Обычно они включают в себя все необходимые инструменты, которые требуются для того, чтобы написать исходный код программы и собрать его в исполняемые файлы.
@@ -381,9 +381,10 @@ IDE объединяет в себе текстовый редактор, ком
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/47.PNG)
 
 
-## 15. Справочник по C++
+## 15. Дополнительные материалы
 
-На любом этапе работы удобно пользоваться справочником по проектированию программных систем на языке программирования С++ [cppreference.com](https://en.cppreference.com/w/).
+- [Справочник по C++](https://en.cppreference.com/w/).
+- [Начало работы с Visual Studio](ttps://visualstudio.microsoft.com/ru/vs/getting-started/)
 
 
 
