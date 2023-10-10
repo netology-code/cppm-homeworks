@@ -384,7 +384,7 @@ IDE объединяет в себе текстовый редактор, ком
 ## 15. Дополнительные материалы
 
 - [Справочник по C++](https://en.cppreference.com/w/).
-- [Начало работы с Visual Studio](ttps://visualstudio.microsoft.com/ru/vs/getting-started/)
+- [Начало работы с Visual Studio](https://visualstudio.microsoft.com/ru/vs/getting-started/)
 
 
 
