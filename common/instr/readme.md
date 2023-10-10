@@ -196,7 +196,7 @@ IDE объединяет в себе текстовый редактор, ком
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/17.PNG)
 
 
-После запуска с отладкой появится консоль, в которую будет выводить ваша программа:
+После запуска с отладкой появится консоль, в которую будет выводиться ваша программа:
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/18.PNG)
 
