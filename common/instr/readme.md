@@ -8,19 +8,19 @@
 План:
 1. [IDE (от англ. Integrated development environment — Интегрированная среда разработки)](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#1-ide-%D0%BE%D1%82-%D0%B0%D0%BD%D0%B3%D0%BB-integrated-development-environment--%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%80%D0%B5%D0%B4%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8)
 2. [Установка Microsoft Visual Studio на Windows 10](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#2-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-microsoft-visual-studio-%D0%BD%D0%B0-windows-10)
-3. [Запуск Visual Studio](
-4. Создание проекта C++
-5. Интерфейс Visual Studio
-6. Сборка проекта
-7. Запуск проекта
-8. Отладка
-9. Расположение в файловой системе
-10. Создание нового кода
-11. Корректировка русского языка
-12. Работа с ошибками
-13. Запись текста в файл
-14. Чтение текста из файла
-15. Справочник по C++
+3. [Запуск Visual Studio](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#3-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-visual-studio)
+4. [Создание проекта C++](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#4-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-c)
+5. [Интерфейс Visual Studio](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81-visual-studio)
+6. [Сборка проекта](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#6-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+7. [Запуск проекта](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#7-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+8. [Отладка](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#8-%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0)
+9. [Расположение в файловой системе](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#9-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5)
+10. [Создание нового кода](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#10-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D0%B4%D0%B0)
+11. [Корректировка русского языка](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#11-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0)
+12. [Работа с ошибками](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#11-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0)
+13. [Запись текста в файл](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#13-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%B2-%D1%84%D0%B0%D0%B9%D0%BB)
+14. [Чтение текста из файла](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#14-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%B8%D0%B7-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0)
+15. [Справочник по C++](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/readme.md#15-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-c)
 
 ## 1. IDE (от англ. Integrated development environment — Интегрированная среда разработки)
 Это программы для разработки других программ. Обычно они включают в себя все необходимые инструменты, которые требуются для того, чтобы написать исходный код программы и собрать его в исполняемые файлы.
