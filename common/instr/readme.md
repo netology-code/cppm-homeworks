@@ -146,7 +146,7 @@ IDE объединяет в себе текстовый редактор, ком
 ![100](https://github.com/netology-code/cppm-homeworks/assets/147130852/ecf74c4c-ebad-463e-a728-c65182343761)
 
 
-Справа находится зона управления файлами и проектами внутри одного решения:
+Обозреватель решений предназначен для управления файлами и проектами внутри одного решения:
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/13.PNG)
 
