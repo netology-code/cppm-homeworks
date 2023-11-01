@@ -138,6 +138,13 @@ IDE объединяет в себе текстовый редактор, ком
 
 ![Image alt](https://github.com/netology-code/cppm-homeworks/blob/main/common/instr/12.PNG)
 
+Во вкладке Вид вы можете выбрать любое окно и добавить его в интерфейс:
+
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/18fb2230-da6b-48ec-b6d7-2d0a85eca5b2)
+
+
+![100](https://github.com/netology-code/cppm-homeworks/assets/147130852/ecf74c4c-ebad-463e-a728-c65182343761)
+
 
 Справа находится зона управления файлами и проектами внутри одного решения:
 
