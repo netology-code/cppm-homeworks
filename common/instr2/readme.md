@@ -124,12 +124,12 @@
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/4af0cb49-63aa-47de-90d5-452ad27da5e3)
 
 
-Если мы поменяем знаменатель на int b = 5:
+Если мы поменяем знаменатель на положительное число, например, int b = 5:
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/4f6f5ecc-1fa9-4411-8164-a8330f52275d)
 
 
-Получим результат равный 2:
+Получим результат деления равный 2:
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/c31e4a2b-33d4-4ce6-943a-9df1f1d78856)
 
