@@ -117,5 +117,19 @@
 Давайте вернём код 1, если знаменатель равен 0 и функция не может произвести деление. В функции main обработаем код возврата — если он не 0, то функция отработала некорректно. Сообщим об этом пользователю.
 
 
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/ef803bd0-88d3-4680-b3ec-1427e8418319)
+
+Проверим, как работает программа:
+
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/84b27bdc-bb16-466a-bcad-3cc2557360d7)
+
+И, если мы поменяем знаменатель на int b = 5:
+
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/a5567dfd-8d19-4449-96cf-c0ece8c2c0a2)
+
+Получим результат равный 2
+
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/ca97f6dd-d3a1-489f-a391-004b7705edc0)
+
 
 
