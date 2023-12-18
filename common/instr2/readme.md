@@ -118,9 +118,6 @@
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/a8e0a98c-0ac9-4a33-b696-de3b40e72357)
 
-
-Проверим, как работает программа:
-
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/4af0cb49-63aa-47de-90d5-452ad27da5e3)
 
 
