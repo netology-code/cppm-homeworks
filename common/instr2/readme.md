@@ -151,6 +151,7 @@
 
 Чтобы коды возврата стали более понятными, можно использовать перечисление (enum).
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/69ca2ad1-0535-4247-8883-7b8839681743)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/43d59a6b-2546-4310-9cc5-e0da70757b23)
+
 
 
