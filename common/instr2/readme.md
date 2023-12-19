@@ -157,7 +157,8 @@
 
 Определим перечисление:
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/5798d7b4-32c2-479f-92ca-d0445ae9b11f)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/34c7a9be-3515-4a5c-9e58-d3cf735f13c1)
+
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/0a09a58e-2597-4550-9f14-2e58cf709a47)
 
