@@ -124,9 +124,9 @@
 
 Если мы поменяем знаменатель на положительное число, например, `int b = 5`, получим результат деления:
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/4f6f5ecc-1fa9-4411-8164-a8330f52275d)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/81642cb6-9e3a-4333-ac12-430ec42dfba8)
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/c31e4a2b-33d4-4ce6-943a-9df1f1d78856)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/0c6ea7e5-3779-4203-8ddc-958859d53f10)
 
 Теперь, когда мы изменили нашу функцию divide, появилось новое место для потенциальной ошибки. Нам могут в качестве аргумента quotient прислать нулевой указатель (nullptr). Это указатель, который не указывает ни на какой участок памяти. Адрес, хранящийся в нём, равен нулю. Если мы попытаемся записать значение по такому указателю, мы получим ошибку и наша программа аварийно завершится. 
 
