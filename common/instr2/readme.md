@@ -133,9 +133,10 @@
 Давайте добавим ещё одну проверку: если указатель нулевой, вернём код 2, а в функции main выведем сообщение пользователю.
 
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/d7578262-fee6-41e9-8696-df734bae4e85)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/f06c4bcc-2a10-4e56-8f99-64bccb167b6d)
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/62e63f24-d3da-4341-a1f7-ce9c2ce1379b)
+
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/3ca2195a-4f8c-499c-93d4-eee0b47be97b)
 
 
 Лучше использовать указатель, а не ссылку по нескольким причинам:
