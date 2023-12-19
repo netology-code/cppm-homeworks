@@ -7,7 +7,7 @@
 - Выясним, что такое исключения
 
 План:
-1. Ошибки и поиск ошибок
+1. [Ошибки и поиск ошибок] (https://github.com/netology-code/cppm-homeworks/blob/main/common/instr2/readme.md#%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-%D0%B8-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA)
 2. Коды возврата
 3. Исключения
 
