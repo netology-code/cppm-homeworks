@@ -135,8 +135,8 @@
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/d7578262-fee6-41e9-8696-df734bae4e85)
 
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/62e63f24-d3da-4341-a1f7-ce9c2ce1379b)
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/17af20a8-4f57-41f3-8bd5-d350cdaed0df)
 
 Лучше использовать указатель, а не ссылку по нескольким причинам:
 - У вас может быть какой-то очень тяжёлый объект. Например, `result` — это большой класс, который долго конструируется. Если у вас будет ссылка, то придётся его сконструировать и передать в функцию ссылку, чтобы просто переписать этот класс.
