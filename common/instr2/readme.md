@@ -116,7 +116,8 @@
 
 Давайте вернём код 1, если знаменатель равен 0 и функция не может произвести деление. В функции main обработаем код возврата.
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/a8e0a98c-0ac9-4a33-b696-de3b40e72357)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/ce287ec0-787f-4b2f-8061-e63c9e77c03f)
+
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/4af0cb49-63aa-47de-90d5-452ad27da5e3)
 
