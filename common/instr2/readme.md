@@ -116,15 +116,15 @@
 
 Давайте вернём код 1, если знаменатель равен 0 и функция не может произвести деление. В функции main обработаем код возврата.
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/ce287ec0-787f-4b2f-8061-e63c9e77c03f)
-
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/c8cc18d7-77ee-47cf-9e2e-03c9c853b26b)
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/4af0cb49-63aa-47de-90d5-452ad27da5e3)
 
 
 Если мы поменяем знаменатель на положительное число, например, `int b = 5`, получим результат деления:
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/81642cb6-9e3a-4333-ac12-430ec42dfba8)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/e9c5855d-2261-4a80-96db-6e9c3f99a3ee)
+
 
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/0c6ea7e5-3779-4203-8ddc-958859d53f10)
 
