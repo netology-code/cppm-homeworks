@@ -88,8 +88,6 @@
 
 Например, напишем: `return 1`. В случае, если `int a = 10`, а `int b = 10`, и реальный и ошибочный результат будут одинаковыми.
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/41f256ae-6dda-432a-81bf-403bd9f0b105)
-
 ![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/3c05b176-251d-486e-8bd0-0db14ae55ff3)
 
 ### Способ 2. 
