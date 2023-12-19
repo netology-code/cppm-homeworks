@@ -157,9 +157,9 @@
 
 Определим перечисление:
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/97282f01-3eb2-4fde-9687-23d593195f54)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/5798d7b4-32c2-479f-92ca-d0445ae9b11f)
 
-![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/bd480a64-a62d-4fcf-b550-dff107fcfc0d)
+![image](https://github.com/netology-code/cppm-homeworks/assets/147130852/0a09a58e-2597-4550-9f14-2e58cf709a47)
 
 Таким образом, использование перечисления (enum) упрощает понимание и обработку возвращаемых значений, поскольку они имеют осмысленные имена вместо просто чисел.
 
